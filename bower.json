@@ -1,0 +1,17 @@
+{
+    "name": "kottaone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Ania Kruk"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/kottaone-bower.git"
+    },
+    "description": "Kotta One font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
